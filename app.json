@@ -1,7 +1,7 @@
 {
     "name": "ＶＡＪＩＲＡ - ＭＤ - V3 WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/VajiraTech/VAJIRA-MD",
+    "repository": "https://github.Hashim3233099/VAJIRA-MD",
     "logo": "https://telegra.ph/file/b714e9a697c2fd0794985.jpg",
     "keywords": [
         "nodejs",
@@ -14,12 +14,12 @@
     "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
             "required": true,
-            "value": ""
+            "value": "c1823850-eed2-4f6f-93e3-be03ccdcacfd"
         },
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
             "required": true,
-            "value": ""
+            "value": "luqmansh45"
         },
         "MONGO_DB": {
             "description": "your mongodb database url",
@@ -34,7 +34,7 @@
         "TYPEMENU": {
             "description": "choose menu type from v1 to v5",
             "required": false,
-            "value": "v1"
+            "value": "v4"
 
         },
         "AUTO_BLOCK_ENABLED": {
